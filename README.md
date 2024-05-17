@@ -52,7 +52,7 @@
 **Libre elección del estudiante**
 
 ## Contenido
-**Libre elección del estudiante**, al redactar el contenido, pegar en los documentos el contenido en el archivo **.txt**, ubicado en el directorio *content*.
+**Libre elección del estudiante**
 
 ## Imágenes
 **Libre elección del estudiante**
